@@ -77,7 +77,23 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white alt=Typescript style="margin-bottom: 5px;" />
 
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black alt=Matplotlib style="margin-bottom: 5px;" />
 
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white alt=Numpy style="margin-bottom: 5px;" />
+
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white alt=Pandas style="margin-bottom: 5px;" />
+
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white alt=Plotly style="margin-bottom: 5px;" />
+
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white alt=Plotly style="margin-bottom: 5px;" />
+
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white alt=Microsoft style="margin-bottom: 5px;" />
 
 | Repository Activity Trends | Collaborative Productivity - Last 28 days |
 | ----------- | ----------- |
